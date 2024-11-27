@@ -1,0 +1,1072 @@
+
+全局
+商店
+搜索应用名称/App ID
+
+
+API
+
+
+中文
+用户：spencer
+高级搜索
+排行榜
+市场情报
+ASO/ASA
+SDK
+广告素材
+竞品对比
+监控
+会员
+Genesis
+
+CoinIn
+
+Vortemol Limited
+
+CoinIn: Coin Scan Identifier
+CoinIn
+实时更新
+
+1
+
+App Store 信息
+应用总览
+实时排名
+全球
+版本记录
+评分及评论
+竞品对比
+关键词
+ASO关键词
+ASA竞价词
+关键词拓展
+元数据预览
+下载/收入
+下载量
+全球
+收入量
+全球
+应用内购
+全球
+广告创意
+广告素材
+ASA素材
+活跃用户
+活跃用户
+ARPU
+用户流转
+重合独占
+用户行为
+人均启动次数
+总启动次数
+单次会话时长
+人均使用时长
+总使用时长
+使用分布
+使用时长分布
+使用时段分布
+启动次数分布
+启动间隔分布
+活跃天数分布
+活跃用户质量
+活跃留存
+活跃沉默
+新增用户质量
+新安装留存
+新安装沉默
+新安装卸载
+新安装流失率
+用户特征
+用户画像
+设备分布
+SDK和安装
+安装量
+SDK
+更多服务
+苹果精品推荐
+内购/故事/开发者
+同开发者应用
+CoinIn: Coin Scan Identifier
+查看趋势>
+CoinIn: Coin Scan Identifier
+Search, Collect & Value Coins
+
+美国
+英文（美国）
+盈利模式
+7607App指数
+竞价词统计
+全球竞价统计
+ASA竞价词
+当前日期
+11月27日(今天)
+
+查看竞价词覆盖历史
+日期
+11月21日/周四
+11月22日/周五
+11月23日/周六
+11月24日/周日
+11月25日/周一
+11月26日/周二
+11月27日/周三
+竞价词
+33
+53
+35
+31
+33
+59
+75
+新发现竞价词
+20
+44
+27
+21
+24
+48
+61
+在投ASA素材
+2
+2
+1
+2
+2
+2
+2
+新发现ASA素材
+0
+0
+0
+1
+0
+0
+0
+33 
+ASA指数趋势 
+关键词详情
+日期
+今天
+近7天
+上周
+自定义
+-
+流行度
+最小值
+-
+最大值
+搜索指数
+全部
+≥4605
+最小值
+-
+最大值
+ASA素材数量
+最小值
+-
+最大值
+竞价App数
+最小值
+-
+最大值
+搜索
+多个词同时搜索用“，”隔开
+品牌词
+全部
+
+只看已关注
+
+翻译成中文
+关键词
+流行度
+排名
+指数
+ASA素材数量
+竞价APP数
+竞价占比
+coin
+
+
+50
+8
+6277
+1
+18
+CoinIn: Coin Scan Identifier
+3.45%
+
+coin snap
+47
+52
+6176
+1
+3
+CoinIn: Coin Scan Identifier
+25%
+
+coin value identifier free
+39
+12
+5839
+1
+4
+CoinIn: Coin Scan Identifier
+25%
+
+coinin: coin scan identifier
+
+38
+1
+5792
+1
+1
+CoinIn: Coin Scan Identifier
+100%
+
+coin scanner: value identifier
+37
+7
+5775
+1
+5
+CoinIn: Coin Scan Identifier
+20%
+
+coinin coin scan identifier
+36
+2
+5731
+1
+2
+CoinIn: Coin Scan Identifier
+50%
+
+free barcode scanner
+36
+未覆盖
+5722
+1
+7
+CoinIn: Coin Scan Identifier
+3.85%
+
+mushroom identifier free
+35
+未覆盖
+5704
+1
+2
+CoinIn: Coin Scan Identifier
+50%
+
+coin value
+34
+20
+5633
+1
+3
+CoinIn: Coin Scan Identifier
+75%
+
+coin collecting
+28
+29
+5443
+1
+3
+CoinIn: Coin Scan Identifier
+12.5%
+
+coin checker
+29
+28
+5440
+1
+3
+CoinIn: Coin Scan Identifier
+50%
+
+coin counter
+27
+未覆盖
+5395
+1
+3
+CoinIn: Coin Scan Identifier
+60%
+
+rare coin identifier
+25
+32
+5331
+1
+2
+CoinIn: Coin Scan Identifier
+66.67%
+
+valor de monedas
+24
+20
+5299
+1
+2
+CoinIn: Coin Scan Identifier
+50%
+
+us coin collector
+23
+87
+5253
+1
+2
+CoinIn: Coin Scan Identifier
+14.29%
+
+coin worth
+22
+42
+5231
+1
+3
+CoinIn: Coin Scan Identifier
+33.33%
+
+coinme: buy bitcoin with cash
+21
+未覆盖
+5194
+1
+3
+CoinIn: Coin Scan Identifier
+33.33%
+
+ngc
+
+21
+未覆盖
+5183
+1
+3
+CoinIn: Coin Scan Identifier
+16.67%
+
+coinscope
+20
+未覆盖
+5051
+1
+4
+CoinIn: Coin Scan Identifier
+25%
+
+rare coins
+18
+未覆盖
+5047
+1
+1
+CoinIn: Coin Scan Identifier
+100%
+
+notesnap: banknote identifier
+17
+未覆盖
+5044
+1
+2
+CoinIn: Coin Scan Identifier
+50%
+
+animal track identifier
+15
+未覆盖
+4946
+1
+2
+CoinIn: Coin Scan Identifier
+50%
+
+coin appraisal
+15
+19
+4942
+1
+1
+CoinIn: Coin Scan Identifier
+100%
+
+object identifier
+13
+未覆盖
+4916
+1
+3
+CoinIn: Coin Scan Identifier
+33.33%
+
+coinin free
+14
+1
+4907
+1
+1
+CoinIn: Coin Scan Identifier
+100%
+
+identificador de monedas
+14
+15
+4898
+1
+2
+CoinIn: Coin Scan Identifier
+50%
+
+precious coin tester
+5
+未覆盖
+4867
+1
+2
+CoinIn: Coin Scan Identifier
+50%
+
+barcode scanner 3
+11
+未覆盖
+4808
+1
+1
+CoinIn: Coin Scan Identifier
+100%
+
+coinsapp
+5
+9
+4641
+1
+2
+CoinIn: Coin Scan Identifier
+42.86%
+
+receipt hog: earn cash back
+5
+未覆盖
+4605
+1
+4
+CoinIn: Coin Scan Identifier
+28.57%
+
+majhul number
+5
+未覆盖
+4605
+1
+4
+CoinIn: Coin Scan Identifier
+28.57%
+
+smart trade coin
+5
+未覆盖
+4605
+1
+3
+CoinIn: Coin Scan Identifier
+33.33%
+
+qr-barcode scanner
+5
+未覆盖
+4605
+1
+2
+CoinIn: Coin Scan Identifier
+11.11%
+
+dog mendonca
+
+5
+未覆盖
+4605
+1
+1
+CoinIn: Coin Scan Identifier
+100%
+
+pcgs set registry
+5
+21
+4605
+1
+2
+CoinIn: Coin Scan Identifier
+75%
+
+ivyn digital currency
+5
+未覆盖
+4605
+1
+2
+CoinIn: Coin Scan Identifier
+50%
+
+star 102.5
+
+5
+未覆盖
+4605
+1
+3
+CoinIn: Coin Scan Identifier
+42.86%
+
+exrates currency courses
+5
+未覆盖
+4605
+1
+2
+CoinIn: Coin Scan Identifier
+75%
+
+money finder
+5
+未覆盖
+4605
+1
+3
+CoinIn: Coin Scan Identifier
+50%
+
+rare money
+5
+未覆盖
+4605
+1
+1
+CoinIn: Coin Scan Identifier
+100%
+
+coins sort
+5
+未覆盖
+4605
+1
+2
+CoinIn: Coin Scan Identifier
+50%
+
+coinio
+5
+84
+4605
+1
+1
+CoinIn: Coin Scan Identifier
+100%
+
+pcgs coin
+5
+54
+4605
+1
+2
+CoinIn: Coin Scan Identifier
+50%
+
+free coin scan
+5
+16
+4605
+1
+1
+CoinIn: Coin Scan Identifier
+100%
+
+implant identifier
+5
+未覆盖
+4605
+1
+2
+CoinIn: Coin Scan Identifier
+25%
+
+numismatic
+5
+未覆盖
+4605
+1
+1
+CoinIn: Coin Scan Identifier
+100%
+
+saudi currency
+5
+未覆盖
+4605
+1
+3
+CoinIn: Coin Scan Identifier
+25%
+
+coin go
+5
+157
+0
+1
+1
+CoinIn: Coin Scan Identifier
+100%
+
+cashing coins
+5
+未覆盖
+0
+1
+1
+CoinIn: Coin Scan Identifier
+100%
+
+coinme-bitcoin and more coins
+5
+未覆盖
+0
+1
+5
+CoinIn: Coin Scan Identifier
+16.67%
+
+Crypto.com - Buy Bitcoin, DOGE
+41.38%
+
+Atlas Earth
+3.45%
+
+CoinIn: Coin Scan Identifier
+3.45%
+
+CoinOut: Receipts for Rewards
+3.45%
+
+Toobit: Buy BTC, ETH & Crypto
+3.45%
+
++13
+CoinSnap: Coin Identifier
+50%
+
+CoinIn: Coin Scan Identifier
+25%
+
+AI Coin identifier
+25%
+
++
+CoinIn: Coin Scan Identifier
+25%
+
+AI Coin identifier
+25%
+
+moomoo: Investing & Trading
+25%
+
+RockItCoin - Buy Bitcoin Now
+25%
+
++
+CoinIn: Coin Scan Identifier
+100%
+
++
+CoinIn: Coin Scan Identifier
+20%
+
+Antique Identifier AI App
+20%
+
+Plant Doctor Identifier Care
+20%
+
+AI Coin identifier
+20%
+
+Coin Scan Identifier - CoinVal
+20%
+
++
+CoinIn: Coin Scan Identifier
+50%
+
+Coin Identifier - CoinCheck
+50%
+
++
+QR Code Reader ·
+76.92%
+
+CoinIn: Coin Scan Identifier
+3.85%
+
+QR Code Reader/QR Scanner App
+3.85%
+
+QR TIGER QR Code Generator
+3.85%
+
+Qr-Code Scanner & Creator App
+3.85%
+
++2
+CoinIn: Coin Scan Identifier
+50%
+
+Mushroom ID: Forage Identifier
+50%
+
++
+CoinIn: Coin Scan Identifier
+75%
+
+Gold & Silver Spot JM Bullion
+12.5%
+
+Collectibles.com: Scan + Value
+12.5%
+
++
+CoinSnap: Coin Identifier
+75%
+
+CoinIn: Coin Scan Identifier
+12.5%
+
+Bitcoin Mining: Crypto Miner
+12.5%
+
++
+CoinIn: Coin Scan Identifier
+50%
+
+AI Coin identifier
+25%
+
+Coin Identifier Coin Snap
+25%
+
++
+CoinIn: Coin Scan Identifier
+60%
+
+CoinSnap: Coin Identifier
+30%
+
+Connected Investors
+10%
+
++
+CoinIn: Coin Scan Identifier
+66.67%
+
+AI Coin identifier
+33.33%
+
++
+CoinIn: Coin Scan Identifier
+50%
+
+Coin Identifier - CoinCheck
+50%
+
++
+Coin Identifier - CoinCheck
+85.71%
+
+CoinIn: Coin Scan Identifier
+14.29%
+
++
+CoinIn: Coin Scan Identifier
+33.33%
+
+Rakuten: Cash Back & Deals
+33.33%
+
+SiriusXM: Music, Sports & News
+33.33%
+
++
+CoinIn: Coin Scan Identifier
+33.33%
+
+Exodus: Crypto Bitcoin Wallet
+33.33%
+
+Titan: Wealth Management
+33.33%
+
++
+CoinSnap: Coin Identifier
+66.67%
+
+CoinIn: Coin Scan Identifier
+16.67%
+
+Quran Pro: القران الكريم
+16.67%
+
++
+CoinIn: Coin Scan Identifier
+25%
+
+Vrbo Vacation Rentals
+25%
+
+Tumblr – Fandom, Art, Chaos
+25%
+
+Coin Identifier Coin Snap
+25%
+
++
+CoinIn: Coin Scan Identifier
+100%
+
++
+CoinIn: Coin Scan Identifier
+50%
+
+Picture Insect: Bug Identifier
+50%
+
++
+CoinIn: Coin Scan Identifier
+50%
+
+Picture Nature: Animal ID
+50%
+
++
+CoinIn: Coin Scan Identifier
+100%
+
++
+CoinIn: Coin Scan Identifier
+33.33%
+
+VeriScan Cloud - ID Scanner
+33.33%
+
+Jungle: Plant Identifier, Seek
+33.33%
+
++
+CoinIn: Coin Scan Identifier
+100%
+
++
+CoinIn: Coin Scan Identifier
+50%
+
+Antique Identifier AI App
+50%
+
++
+CoinIn: Coin Scan Identifier
+50%
+
+Coin Identifier - CoinCheck
+50%
+
++
+CoinIn: Coin Scan Identifier
+100%
+
++
+CoinSnap: Coin Identifier
+57.14%
+
+CoinIn: Coin Scan Identifier
+42.86%
+
++
+CoinIn: Coin Scan Identifier
+28.57%
+
+Zoho Invoice Maker App
+28.57%
+
+Receipt Pal: Rewards & Scanner
+28.57%
+
+True Finance: The Money App
+14.29%
+
++
+Second Phone Number - 2Number
+42.86%
+
+CoinIn: Coin Scan Identifier
+28.57%
+
+Reverse Lookup: Phone Search
+14.29%
+
+Xtreme Slots: 777 Vegas Casino
+14.29%
+
++
+Antique Identifier AI App
+50%
+
+CoinIn: Coin Scan Identifier
+33.33%
+
+DingDingDing.com
+16.67%
+
++
+QR Code Reader + QR Scanner
+88.89%
+
+CoinIn: Coin Scan Identifier
+11.11%
+
++
+CoinIn: Coin Scan Identifier
+100%
+
++
+CoinIn: Coin Scan Identifier
+75%
+
+Coin Identifier - CoinCheck
+25%
+
++
+CoinIn: Coin Scan Identifier
+50%
+
+Crypto.com - Buy Bitcoin, DOGE
+50%
+
++
+CoinIn: Coin Scan Identifier
+42.86%
+
+PictureThis - Plant Identifier
+28.57%
+
+SiriusXM: Music, Sports & News
+28.57%
+
++
+CoinIn: Coin Scan Identifier
+75%
+
+Coin Identifier - CoinCheck
+25%
+
++
+CoinIn: Coin Scan Identifier
+50%
+
+Banknote Identifier - NoteScan
+25%
+
+Coin Identifier - CoinCheck
+25%
+
++
+CoinIn: Coin Scan Identifier
+100%
+
++
+CoinIn: Coin Scan Identifier
+50%
+
+Water Sort Puzzle - Sort Color
+50%
+
++
+CoinIn: Coin Scan Identifier
+100%
+
++
+CoinIn: Coin Scan Identifier
+50%
+
+Coin Scan Identifier - CoinVal
+50%
+
++
+CoinIn: Coin Scan Identifier
+100%
+
++
+StampSnap - Stamp Identifier
+75%
+
+CoinIn: Coin Scan Identifier
+25%
+
++
+CoinIn: Coin Scan Identifier
+100%
+
++
+Crypto.com - Buy Bitcoin, DOGE
+50%
+
+CoinIn: Coin Scan Identifier
+25%
+
+Accounting App - Zoho Books
+25%
+
++
+CoinIn: Coin Scan Identifier
+100%
+
++
+CoinIn: Coin Scan Identifier
+100%
+
++
+Crypto.com - Buy Bitcoin, DOGE
+33.33%
+
+CoinIn: Coin Scan Identifier
+16.67%
+
+CoinOut: Receipts for Rewards
+16.67%
+
+DingDingDing.com
+16.67%
+
+CEX.IO App - Buy Crypto & BTC
+16.67%
+
++
+操作
+
+
+50条/页
+当前位置:
+点点数据
+AppStore排行榜
+参考app排行榜
+CoinIn: Coin Scan Identifier App
+点点首页
+产品价格
+关于点点
+用户协议
+隐私政策
+产品建议
+代理合作

@@ -4,12 +4,12 @@ import os
 
 def generate_negative_keyword_file():
 	# Define constants
-	CAMPAIGN_ID = 1715185383
-	AD_GROUP_ID = 1716434258
+	CAMPAIGN_ID = 1718142639
+	AD_GROUP_ID = 1718512513
 	MATCH_TYPE = 'EXACT'
 
 	# Read the input CSV file to get keywords
-	df = pd.read_csv('input/ad_group_keyword_list.csv')
+	df = pd.read_csv('output/1718142639_1718442479_PTB_keyword_import.csv')
 
 	# Get keywords from the input file
 	negative_keywords = df['Keyword'].tolist()
@@ -31,7 +31,7 @@ def generate_negative_keyword_file():
 	neg_kw_df = pd.DataFrame(data)
 
 	# Export to CSV
-	output_file = 'output/negative_keyword_import.csv'
+	output_file = f"output/{CAMPAIGN_ID}_{AD_GROUP_ID}_negative_keyword_import.csv"
 	neg_kw_df.to_csv(output_file, index=False, na_rep='')
 
 	print(f"Successfully generated negative keyword file: {output_file}")
