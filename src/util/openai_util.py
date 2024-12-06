@@ -63,10 +63,19 @@ def get_task_instruction(task: Task, **kwargs) -> str:
         Task.EXPLAIN: "Explain the following concept in detail, providing clear examples where appropriate.",
         Task.ANALYZE: "Analyze the following information and provide insights and observations.",
         Task.SUMMARIZE: "Provide a concise summary of the following text, highlighting key points.",
-        Task.FETCH_KEYWORDS_FROM_DIANDIAN: """Extract and clean ASA keywords from the following text. 
-Return only the keywords, one per line. 
-Remove any duplicates and invalid keywords.
-Do not include any explanations or additional text."""
+        Task.FETCH_KEYWORDS_FROM_DIANDIAN: """This HTML data contains the date and the corresponding ASA keywords. Extract the date and the keywords information and return a JSON object with the following structure:
+{
+    "date": "YYYY-MM-DD",
+    "keywords": [
+        {
+            "keyword": "the keyword text",
+            "search_volume": 123,  // Search volume as integer, 0 if not available
+            "rank": 5,  // Rank position as integer
+        }
+    ]
+}
+Only include valid data, skip any irrelevant content.
+Format the response as valid JSON."""
     }
     
     return instructions.get(task, "Please process the following input.")
@@ -90,7 +99,7 @@ def process_with_ai(text: str, role: Role, task: Task, **kwargs) -> Optional[str
         task_instruction = get_task_instruction(task, **kwargs)
         
         response = client.chat.completions.create(
-            model="gpt-4",  # or your specific model name
+            model="gpt-4o-mini",  # or your specific model name
             messages=[
                 {
                     "role": "system",
